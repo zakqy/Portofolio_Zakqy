@@ -269,8 +269,8 @@ section{
 @media (max-width:440px){
     .main-container .image{
         width: 50%;
-        height: 60%;
-        margin-bottom: 10px;
+        height: 50%;
+        margin-bottom: 40px;
     }
 
     .main-container .content{
